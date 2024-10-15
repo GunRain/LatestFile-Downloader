@@ -1,2 +1,5 @@
-# LatestFile-Downloader
- Multi-threaded downloader for HTTP. 多线程下载器
+# LatestFile Downloader
+
+基于https://www.cnblogs.com/qxcheng/p/15378472.html
+
+提供的下载链接必须有`http://`或`https://`
